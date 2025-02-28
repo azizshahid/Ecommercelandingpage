@@ -1,0 +1,32 @@
+.about-body {
+  background-image: url("./Images/About\ Us.jpg");
+  background-repeat: no-repeat;
+  background-size: 90% 400%;
+  background-position-x: center;
+  background-color: rgb(231, 229, 227);
+  display: flex;
+  justify-content: center;
+  align-items:last baseline;
+}
+
+.about-us-head{
+  display: flex;
+  justify-content: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+p{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.about-us{
+  background-color: rgb(175, 173, 170);
+  padding: 5px;
+  height: 200px;
+  width: 700px;
+  margin-top: 50px;
+}
+
+
